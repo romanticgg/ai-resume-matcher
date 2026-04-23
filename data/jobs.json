@@ -1,0 +1,86 @@
+[
+  {
+    "title": "数据分析师 / Data Analyst",
+    "skills": ["python", "sql", "excel", "数据分析", "data analysis", "tableau"]
+  },
+  {
+    "title": "数据科学家 / Data Scientist",
+    "skills": ["python", "machine learning", "数据挖掘", "pandas", "scikit-learn", "statistics"]
+  },
+  {
+    "title": "机器学习工程师 / Machine Learning Engineer",
+    "skills": ["python", "machine learning", "deep learning", "tensorflow", "pytorch", "机器学习"]
+  },
+  {
+    "title": "后端开发工程师 / Backend Developer",
+    "skills": ["java", "spring", "mysql", "api", "redis", "后端开发"]
+  },
+  {
+    "title": "前端开发工程师 / Frontend Developer",
+    "skills": ["javascript", "react", "css", "html", "typescript", "前端开发"]
+  },
+  {
+    "title": "全栈开发工程师 / Full Stack Developer",
+    "skills": ["javascript", "react", "node.js", "mysql", "api", "全栈开发"]
+  },
+  {
+    "title": "Python开发工程师 / Python Developer",
+    "skills": ["python", "flask", "django", "api", "mysql", "python开发"]
+  },
+  {
+    "title": "Java开发工程师 / Java Developer",
+    "skills": ["java", "spring", "spring boot", "mysql", "backend"]
+  },
+  {
+    "title": "软件工程师 / Software Engineer",
+    "skills": ["java", "python", "data structures", "algorithms", "git", "数据结构", "算法"]
+  },
+  {
+    "title": "DevOps工程师 / DevOps Engineer",
+    "skills": ["linux", "docker", "ci/cd", "python", "aws", "devops"]
+  },
+  {
+    "title": "运维工程师 / System Administrator",
+    "skills": ["linux", "shell", "服务器", "运维", "network"]
+  },
+  {
+    "title": "数据库工程师 / Database Engineer",
+    "skills": ["sql", "mysql", "database design", "数据库设计", "performance tuning"]
+  },
+  {
+    "title": "大数据工程师 / Big Data Engineer",
+    "skills": ["hadoop", "spark", "python", "scala", "大数据", "data pipeline"]
+  },
+  {
+    "title": "AI工程师 / AI Engineer",
+    "skills": ["python", "deep learning", "nlp", "computer vision", "人工智能"]
+  },
+  {
+    "title": "自然语言处理工程师 / NLP Engineer",
+    "skills": ["nlp", "python", "transformer", "bert", "自然语言处理"]
+  },
+  {
+    "title": "计算机视觉工程师 / Computer Vision Engineer",
+    "skills": ["opencv", "deep learning", "cnn", "python", "图像处理"]
+  },
+  {
+    "title": "信息安全工程师 / Security Engineer",
+    "skills": ["network security", "渗透测试", "encryption", "security", "linux"]
+  },
+  {
+    "title": "测试工程师 / QA Engineer",
+    "skills": ["testing", "自动化测试", "selenium", "test case", "qa"]
+  },
+  {
+    "title": "产品经理 / Product Manager",
+    "skills": ["communication", "需求分析", "product design", "roadmap", "用户研究"]
+  },
+  {
+    "title": "商业分析师 / Business Analyst",
+    "skills": ["excel", "sql", "communication", "data analysis", "power bi", "沟通能力"]
+  },
+  {
+    "title": "云计算工程师 / Cloud Engineer",
+    "skills": ["aws", "azure", "cloud computing", "docker", "kubernetes"]
+  }
+]
